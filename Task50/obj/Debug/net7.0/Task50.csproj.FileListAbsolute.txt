@@ -1,0 +1,15 @@
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson7\Task50\bin\Debug\net7.0\Task50.exe
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson7\Task50\bin\Debug\net7.0\Task50.deps.json
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson7\Task50\bin\Debug\net7.0\Task50.runtimeconfig.json
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson7\Task50\bin\Debug\net7.0\Task50.dll
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson7\Task50\bin\Debug\net7.0\Task50.pdb
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson7\Task50\obj\Debug\net7.0\Task50.csproj.AssemblyReference.cache
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson7\Task50\obj\Debug\net7.0\Task50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson7\Task50\obj\Debug\net7.0\Task50.AssemblyInfoInputs.cache
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson7\Task50\obj\Debug\net7.0\Task50.AssemblyInfo.cs
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson7\Task50\obj\Debug\net7.0\Task50.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson7\Task50\obj\Debug\net7.0\Task50.dll
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson7\Task50\obj\Debug\net7.0\refint\Task50.dll
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson7\Task50\obj\Debug\net7.0\Task50.pdb
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson7\Task50\obj\Debug\net7.0\Task50.genruntimeconfig.cache
+C:\Users\Евгений\Pictures\Новая папка\C#\Lesson7\Task50\obj\Debug\net7.0\ref\Task50.dll
