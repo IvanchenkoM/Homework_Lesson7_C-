@@ -14,7 +14,7 @@ for (int j=0; j<columns; j++)
         {
             sum += numbers[i,j];
         }
-        Console.WriteLine($"Average in columns {j+1}: {sum/rows}");
+        Console.WriteLine($"Average in columns {j+1}: {Math.Round(sum/rows,2)}");
         sum=0;
     }
 
